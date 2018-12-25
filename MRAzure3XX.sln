@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRAzure3XX", "MRAzure3XX.csproj", "{AB2CB3ED-67D2-8BCA-716E-7A02BC7C67CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRAzure3XX.Editor", "MRAzure3XX.Editor.csproj", "{BBCCDC34-81DD-112A-A516-3DD99F5D08F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB2CB3ED-67D2-8BCA-716E-7A02BC7C67CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2CB3ED-67D2-8BCA-716E-7A02BC7C67CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2CB3ED-67D2-8BCA-716E-7A02BC7C67CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2CB3ED-67D2-8BCA-716E-7A02BC7C67CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCCDC34-81DD-112A-A516-3DD99F5D08F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCCDC34-81DD-112A-A516-3DD99F5D08F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCCDC34-81DD-112A-A516-3DD99F5D08F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCCDC34-81DD-112A-A516-3DD99F5D08F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
